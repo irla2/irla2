@@ -47,6 +47,12 @@ I’m a passionate Cloud & DevOps Engineer with 6+ years of experience in design
 ![Loki](https://img.shields.io/badge/Loki-00BFAE?style=for-the-badge&logo=grafana&logoColor=white)
 ![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
 
+### 🗄️ Databases & Administration
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 ---
 
 ## 📈 GitHub Stats
