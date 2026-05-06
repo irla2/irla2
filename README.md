@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Ramanjaneyulu**
 
-🚀 **Senior DevOps & Cloud Engineer** | AWS | GCP | Kubernetes | Terraform | Automation Enthusiast
+🚀 **Senior DevOps & Cloud Engineer** | AWS | Azure |GCP | Kubernetes | Terraform | Automation Enthusiast
 
 ---
 
